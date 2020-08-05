@@ -7,3 +7,4 @@ const Hot = hot(RSP);
 
 ReactDom.render(<Hot/>, document.querySelector('#root'));
 // 123213123123
+//2432424
